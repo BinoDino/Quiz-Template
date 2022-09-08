@@ -1,0 +1,96 @@
+--------------- Overview of Unencrypted Answers for Info and Test---------------
+
+1) INFO
+    a) What is Social Engineering?
+        q0_1: "True"
+        q0_2: "False"
+        q0_3: "True"
+
+    b) Phishing
+        q1_1: "Whaling"
+
+    c)Online Environment
+        q2_1: "Clickjacking"
+
+    d) Physical Attacks
+        q3_1: "Malicious Insider"
+        q3_2: "Piggybacking"
+        q3_3: "Quid Pro Quo"
+
+2) TEST
+    a) General
+        q0_1: "True"
+        q0_2: "False"
+        q0_3: "To gain access to vital or personal information"
+        q0_4: "Tricking or deceiving someone into providing confidential information"
+    
+    b) Phishing
+        q1_1: "Spear Phishing"
+        q1_2: "Spear Phishing"
+        q1_3: "Whaling"
+        q1_4: "Smishing"
+        q1_5: "Vishing"
+        q1_6: "Angler Phishing",
+        q1_7: "Angler Phishing",
+        q1_8: "Business Email Compromise"
+        q1_9: "Business Email Compromise"
+        q1_10: "Spear Phishing"
+        q1_11: "Whaling"
+        q1_12: "Smishing"
+        q1_13: "Angler Phishing"
+        q1_14: "Business Email Compromise"
+        q1_15: "Phishing"
+        q1_16: "URL Hijacking"
+        q1_17: "Spear Phishing"
+        q1_18: "Creating false social media profiles to deceive unsuspecting people" and "Packing malware into an unverified third-party download"
+
+    c)Online Environment
+        q2_1: "Typosquatting"
+        q2_2: "Typosquatting"
+        q2_3: "Scareware"
+        q2_4: "Scareware"
+        q2_5: "Clickjacking"
+        q2_6: "Baiting"
+        q2_7: "Baiting"
+        q2_8: "Baiting"
+        q2_9: "Scareware"
+        q2_10: "Clickjacking"
+        q2_11: "False"
+        q2_12: "Clickjacking"
+        q2_13: "Scareware"
+        q2_14: "Typosquatting"
+        q2_15: "Baiting (online)"
+
+    d) Physical Attacks
+        q3_1: "Baiting"
+        q3_2: "Pretexting"
+        q3_3: "Honeypot"
+        q3_4: "Honeypot"
+        q3_5: "Quid Pro Quo"
+        q3_6: "Shoulder Surfing"
+        q3_7: "Shoulder Surfing"
+        q3_8: "Eavesdropping"
+        q3_9: "Eavesdropping"
+        q3_10: "Malicious Insider"
+        q3_11: "Diversion Theft"
+        q3_12: "Diversion Theft"
+        q3_13: "Tailgating"
+        q3_14: "Baiting"
+        q3_15: "Pretexting"
+        q3_16: "Honeypot"
+        q3_17: "Shoulder Surfing"
+        q3_18: "Eavesdropping"
+        q3_19: "Malicious Insider"
+        q3_20: "Quid Pro Quo"
+        q3_21: "Pretexting"
+        q3_22: "False"
+        q3_23: "Following an employee into a restricted area through deception"
+        q3_24: "Shoulder Surfing"
+        q3_25: "Baiting, Piggybacking, and Eavesdropping"
+        q3_26: "Tailgating"
+
+    e) Multiple Term Questions
+        q4_1: "Pretexting" and "Piggybacking"
+        q4_2: "Phishing" and "Scareware"
+        q4_3: "Spear Phishing" and "Business Email Compromise"
+        q4_4: "Diversion Theft" and "Malicious Insider"
